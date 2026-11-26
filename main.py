@@ -6,7 +6,7 @@ Writes a single original one-line office joke to /output/entry.txt.
 
 import os
 
-JOKE = "The office printer jammed again, so I filed a complaint — it printed a copy of the complaint and asked me to sign it."
+JOKE = "I asked HR if my chair could file a complaint about me — it said I sit on it all day and never once asked how it feels."
 
 def main():
     # Gate: entry must be 1-200 characters of non-whitespace UTF-8 text.
